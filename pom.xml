@@ -11,6 +11,11 @@
     <description>Simple jUnit test example</description>
     <url>http://stokito.blogspot.com/2013/02/blog-post_27.html</url>
     <inceptionYear>2013</inceptionYear>
+         
+         <properties>
+             <maven.compiler.source>1.8</maven.compiler.source>
+             <maven.compiler.target>1.8</maven.compiler.target>
+         </properties>
 
     <licenses>
         <license>
